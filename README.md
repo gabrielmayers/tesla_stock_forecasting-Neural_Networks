@@ -1,2 +1,5 @@
-# tesla_sock_forecasting-Neural_Networks
+# Tesla Stock Forecasting, baby!
+
 Forecasting Tesla Stock Price using Neural Networks 🚗
+
+
