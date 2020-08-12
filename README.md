@@ -1,4 +1,4 @@
-# Tesla Stock Forecasting, baby!
+# Tesla Stock Forecasting
 
 Forecasting Tesla Stock Price using Neural Networks 🚗
 
